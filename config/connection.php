@@ -1,7 +1,7 @@
 <?php
 session_start();
 
-$mode = 'production';   
+$mode = 'local';   
 
 
 if($mode == 'local'){
